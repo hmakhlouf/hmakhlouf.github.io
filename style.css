@@ -98,5 +98,10 @@ h1{
 }
 
 body{
-    background-color: rgb(224, 224, 224)
+    background-color: white
+}
+
+
+table{
+    background-color: white;
 }

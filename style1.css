@@ -78,15 +78,17 @@ h1,h3{
 
 
 a1,a2,a3,a4{
-   margin-left: 150px
+   margin-left: 120px
 }
 
 h1{
     padding-top: 100px;
     padding-bottom: 50px;
-    padding-left: 300px;
+    padding-left: 200px;
 }
 
-
+.container{
+    margin-left: 250px
+}
 
 

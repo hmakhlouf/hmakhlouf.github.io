@@ -1,6 +1,6 @@
-Link to the Lattitude Web Visualisation Dashboeard 
+#Link to the Lattitude Web Visualisation Dashboeard 
 
-(https://www.hmakhlouf.github.io)
+#https://www.hmakhlouf.github.io
 
 # Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
 
